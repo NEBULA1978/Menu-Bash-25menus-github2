@@ -1,0 +1,6 @@
+Linea perro
+Linea gato
+Linea avestruz
+Linea perro
+Linea gato
+Linea avestruz
